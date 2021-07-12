@@ -23,7 +23,7 @@ def send_url():
     url = params.replace("url=", "")
     url = url_strip(url)
     if url in blacklisted:
-        playsound('audio.mp3')
+        playsound('alarm.wav')
         print(url)
         # song = AudioSegment.from_mp3("audio.mp3")
         # play(song)

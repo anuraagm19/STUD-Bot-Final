@@ -10,7 +10,7 @@ Features:
 3. Website Alert: Flask server with chrome extensionm that gives us an alert when ever a preflagged website is visited.
 4. Break Timer: Setting a timer for breaks whenever user in not detected in fromnt of laptop.
 
-Download pre-trained weights : https://pjreddie.com/media/files/yolov3.weights
+Download pre-trained weights : https://pjreddie.com/media/files/yolov3.weights <br/>
 Download shape-predictor dat file : https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat
 
 Members:

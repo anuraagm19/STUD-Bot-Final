@@ -10,6 +10,8 @@ Features:
 3. Website Alert: Flask server with chrome extensionm that gives us an alert when ever a preflagged website is visited.
 4. Break Timer: Setting a timer for breaks whenever user in not detected in fromnt of laptop.
 
+Download pre-trained weights : https://pjreddie.com/media/files/yolov3.weights
+
 Members:
 1. Aishik Rakshit https://github.com/aishik-rakshit
 2. Anuraag Mahajan https://github.com/anuraagm19
